@@ -2,7 +2,7 @@
 
 This project is a Single Page Application (SPA) that displays information about Star Wars planets. It utilizes React, React Router, GraphQL, and React Testing Library, following individual design.
 
-![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxxbDR3OWltczRzbnEwa2JkMmdyMmhoMHppODQ4Nm9uMW93b25maCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TjyiZJjBvjVjXl9iwD/source.gif);
+![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxxbDR3OWltczRzbnEwa2JkMmdyMmhoMHppODQ4Nm9uMW93b25maCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TjyiZJjBvjVjXl9iwD/source.gif)
 
 ### Setup
 
