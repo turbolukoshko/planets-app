@@ -18,15 +18,34 @@ This project is a Single Page Application (SPA) that displays information about 
    gh repo clone turbolukoshko/planets-app
    ```
 
-   
-
 2. Navigate to the project directory:
 
    ```bash
-   cd smooth-scroll-css
+   cd planets-app
    ```
 
-## Basic questions:
+3. Install dependencies:
+
+This project requires NodeJS (version 18 or later) and NPM
+
+   ```bash
+   npm install
+   ```
+
+### Usage 
+
+#### CLI Commands
+ 
+#### Starting the app
+   ```bash
+   npm run dev
+   ```
+#### Running the unit tests
+   ```bash
+   npm run test
+   ```
+
+### Basic questions:
 
 #### a. Architecture ####
 
