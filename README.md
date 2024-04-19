@@ -2,7 +2,29 @@
 
 This project is a Single Page Application (SPA) that displays information about Star Wars planets. It utilizes React, React Router, GraphQL, and React Testing Library, following individual design.
 
-![GIF]("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxxbDR3OWltczRzbnEwa2JkMmdyMmhoMHppODQ4Nm9uMW93b25maCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TjyiZJjBvjVjXl9iwD/source.gif");
+![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxxbDR3OWltczRzbnEwa2JkMmdyMmhoMHppODQ4Nm9uMW93b25maCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TjyiZJjBvjVjXl9iwD/source.gif);
+
+### Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone git@github.com:turbolukoshko/planets-app.git
+   ```
+
+   or
+
+   ```bash
+   gh repo clone turbolukoshko/planets-app
+   ```
+
+   
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd smooth-scroll-css
+   ```
 
 ## Basic questions:
 
@@ -85,7 +107,7 @@ This project follows a component-based architecture using React.js, with a focus
 
 This diagram illustrates how the architecture, performance optimizations, maintainability practices, extensibility, and documentation contribute to the scalability of the project. As the project grows and evolves, these factors ensure that the application can scale effectively to meet future demands while maintaining performance, reliability, and maintainability.
 
-![Diagram]("src/assets/diagram.png");
+![Diagram](src/assets/diagram.png)
 
 #### h. Feedback ####
 
